@@ -8,6 +8,7 @@ Welcome to team 13's TP2 project site. Here you can find all the files, presenta
 
 [Introduction to Zillow and our Goal](/code/zillo_intro.html)
 
+[Notebook Critiques](/code/Notebooks.html)
 
 [Project Outline](/code/Outline.html)
 
